@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Love Language",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-02-11T19:28:45.650849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "love language",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_love_language_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "love language",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_love_language_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/03_Love_Language_SZA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Windwaker",
+      "has_synced": false,
+      "path": "select/04_Love_Language_Windwaker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Reflection Eternal feat. Les Nubians",
+      "has_synced": true,
+      "path": "select/05_Love_Language_Reflection_Eternal_feat._Les_Nubians.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Language (feat. Les Nubians)",
+      "artist": "Reflection Eternal",
+      "has_synced": true,
+      "path": "select/06_Love_Language_(feat._Les_Nubians)_Reflection_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Crooked Colours",
+      "has_synced": true,
+      "path": "select/07_Love_Language_Crooked_Colours.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Kehlani",
+      "has_synced": true,
+      "path": "select/08_Love_Language_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Keke Palmer",
+      "has_synced": false,
+      "path": "select/09_Love_Language_Keke_Palmer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Reflection Eternal",
+      "has_synced": true,
+      "path": "select/10_Love_Language_Reflection_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Angie Stone",
+      "has_synced": false,
+      "path": "select/11_Love_Language_Angie_Stone.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "The Social Animals",
+      "has_synced": true,
+      "path": "select/12_Love_Language_The_Social_Animals.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Social Animals",
+      "has_synced": true,
+      "path": "select/13_Love_Language_Social_Animals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Queen Naija",
+      "has_synced": true,
+      "path": "select/14_Love_Language_Queen_Naija.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/15_Love_Language_SZA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love Language",
+      "artist": "Talib Kweli feat. Les Nubians",
+      "has_synced": true,
+      "path": "select/16_Love_Language_Talib_Kweli_feat._Les_Nubians.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Language",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Language_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
